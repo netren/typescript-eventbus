@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es5",
+      "sourceMap": true,
+      "allowJs": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true
+  
+  
+    },
+    "include" : [
+      "./lib/*.ts",
+      "./*.ts"
+    ],
+    
+    "exclude": [
+      "node_modules",
+      ".git"
+    ]
+  }

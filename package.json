@@ -1,0 +1,27 @@
+{
+  "name": "typescript-eventbus",
+  "version": "0.0.1",
+  "description": "framework of eventbus like android in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netren/typescript-eventbus.git"
+  },
+  "keywords": [
+    "eventbus",
+    "typescript"
+  ],
+  "author": "chenxixing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netren/typescript-eventbus/issues"
+  },
+  "homepage": "https://github.com/netren/typescript-eventbus#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.10",
+    "typescript": "^2.6.2"
+  }
+}
